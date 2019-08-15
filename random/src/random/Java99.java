@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class Java99 {
 
-	public static void main(String[] args) {
-		// TODO 自動產生的方法 Stub
+	public static void main(String[] args) {	
 		Scanner input = new Scanner(System.in);
 		int x, y;//記憶輸入
 		String which;//記憶輸入
